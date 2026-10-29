@@ -1,0 +1,7 @@
+Appliance,Start Hour,Duration (hrs),Power (kW),kWh Used,Rs Saved,Peak Rank
+Water Pump,13:00,2.0,1.5,3.0,21.0,1
+Washing Machine,13:00,1.5,0.8,1.2,8.4,1
+Air Conditioner,11:00,3.0,1.5,4.5,31.5,2
+Iron,11:00,0.5,1.0,0.5,3.5,2
+Dishwasher,12:00,1.0,1.2,1.2,8.4,3
+EV Charger,12:00,2.0,3.3,6.6,46.2,3
